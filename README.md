@@ -1,1 +1,1 @@
-# This is a README
+A demonstration on how to create a new repository
